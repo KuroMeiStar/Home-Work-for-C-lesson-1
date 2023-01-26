@@ -1,0 +1,15 @@
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\bin\Debug\net6.0\HWTask8.exe
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\bin\Debug\net6.0\HWTask8.deps.json
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\bin\Debug\net6.0\HWTask8.runtimeconfig.json
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\bin\Debug\net6.0\HWTask8.dll
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\bin\Debug\net6.0\HWTask8.pdb
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\HWTask8.csproj.AssemblyReference.cache
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\HWTask8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\HWTask8.AssemblyInfoInputs.cache
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\HWTask8.AssemblyInfo.cs
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\HWTask8.csproj.CoreCompileInputs.cache
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\HWTask8.dll
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\refint\HWTask8.dll
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\HWTask8.pdb
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\HWTask8.genruntimeconfig.cache
+C:\Users\Beka\Documents\C#\For lesson\HWTask8\obj\Debug\net6.0\ref\HWTask8.dll
